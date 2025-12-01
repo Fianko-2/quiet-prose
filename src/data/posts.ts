@@ -10,16 +10,4 @@ export interface Post {
   slug: string;
 }
 
-export const posts: Post[] = [
-  {
-    id: '1',
-    title: 'Welcome to Quiet Prose',
-    excerpt: 'A first look at what this blog is about.',
-    content: 'Welcome to my new blog. This is the first post.',
-    tags: ['welcome', 'intro'],
-    category: 'General',
-    publishDate: '2025-12-01T12:00:00Z',
-    readingTime: 1,
-    slug: 'welcome-to-quiet-prose'
-  }
-];
+export const posts: Post[] = [];
