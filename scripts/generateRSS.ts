@@ -50,7 +50,7 @@ ${post.tags.map((tag) => `      <category>${escapeXml(tag)}</category>`).join('\
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Quiet Prose</title>
+    <title>The Quiet Laboratory</title>
     <link>${siteUrl}</link>
     <description>Longform explorations of ideas worth sitting with</description>
     <language>en-us</language>

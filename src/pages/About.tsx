@@ -28,7 +28,7 @@ const About = () => {
 
                         <div className="prose prose-lg max-w-none space-y-6">
                             <p className="text-foreground font-serif text-lg leading-relaxed">
-                                Welcome to <strong>Quiet Prose</strong>—a space for longform explorations of ideas worth sitting with.
+                                Welcome to <strong>The Quiet Laboratory</strong>—a space for longform explorations of ideas worth sitting with.
                             </p>
 
                             <p className="text-foreground font-serif text-lg leading-relaxed">
