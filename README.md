@@ -52,7 +52,3 @@ Posts are stored in `src/data/posts.ts`. To add a new post, simply add a new obj
   slug: "url-slug"
 }
 ```
-
-## License
-
-MIT
